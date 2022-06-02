@@ -1,0 +1,14 @@
+---
+title: "RW- 160 Resources"
+author: "Ashwini Shanbhogue"
+date: "6/2/2022"
+output: html_document
+---
+
+Data set used: [MIMIC-IV demo data in the OMOP Common Data Model (version 0.9)](https://physionet.org/content/mimic-iv-demo-omop/0.9/)
+
+[Framework for FDA's Real World Evidence Program](https://www.fda.gov/media/120060/download)
+
+[WhiteRabbit](https://github.com/OHDSI/WhiteRabbit)
+
+[BRIDG 5.3.1](https://bridgmodel.nci.nih.gov/)
